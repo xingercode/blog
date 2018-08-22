@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "开篇"
+date:   2018-08-22 09:50:21 +0800
+categories: skill
+myvar: hahaha
+---
+第一篇文章，啥东西也没有
+
+{% highlight java %}
+public static void main(String[] args){
+	System.out.println("hello world");
+}
+{% endhighlight %}
